@@ -81,7 +81,6 @@ Umfang und Beschreibung
 		- Antirot-Rot			(Meson)
 		- Antiblau-Blau			(Meson)
 		- Antigrün-Grün			(Meson)
-	
 	Der Bindungsmechanismus ist daher nur abhängig von der Farbe und nicht vom Flavour. Da die die Formationszeit von Hadronen mit Top-Flavour größer ist als die Lebensdauer, sind diese noch nicht beobachtet worden (Stand: 07/23). Dies wird in dem Puzzle berücksichtigt, da Top-Quarks keine Kontakte besitzen und so nicht verbaut werden können.
 	Auf der Oberseite eines Quarks sind Angaben zu der Generation zu finden: (Kreis: erste Generation; Tetraeder: zweite Genration; Quadrat: dritte Genration).
 	Auf der Seite neben der Angabe des Flavours ist eine Angabe der elektrischen Ladung.
