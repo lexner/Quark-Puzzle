@@ -1,4 +1,4 @@
-READ ME | Quark-Puzzle | By Lukas Julian Exner, quarks@magenta.de | CC BY-ND | 1st August 2023
+READ ME | Quark-Puzzle | By Lukas Julian Exner and Sebastian Neubert, LHCb Bonn, quarks@magenta.de | CC BY-ND | 1st August 2023
 
 
 Languages Available: English and German
