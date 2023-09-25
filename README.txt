@@ -54,7 +54,7 @@ Who to contact?
 	You can contact L.J. Exner at quarks@magenta.de or ask questions on the Instagram channel @quark.puzzle.
 
 Who are "we"?
-	The quark puzzle was developed by Lukas Julian Exner at the Helmholtz Institute for Radiation and Nuclear Physics at the University of Bonn with the support of Prof. Dr. Sebastian Neubert his working group and especially Dr. Klaas Padeken.
+	The quark puzzle was developed by Lukas Julian Exner at the Helmholtz Institute for Radiation and Nuclear Physics at the University of Bonn with the supervision of Prof. Dr. Sebastian Neubert and support of LHCb Bonn.
 
 Further
 	We are not liable for any damage caused by the print or the product and will not pay for any costs incurred for the material.
@@ -113,7 +113,7 @@ Wen kontaktieren?
 	Sie können unter der Mail-Adresse quarks@magenta.de Lukas J. Exner erreichen, oder aber Fragen auf dem Instagram-Kanal @quark.puzzle stellen.
 
 Wer sind "wir"?
-	Das Quark-Puzzle wurde von Lukas Julian Exner am Helmholtz-Institut für Strahlen- und Kernphysik der Universität Bonn mit Unterstützung von Prof. Dr. Sebastian Neubert, seiner Arbeitsgruppe und insbesondere Dr. Klaas Padeken entwickelt.
+	Das Quark-Puzzle wurde von Lukas Julian Exner am Helmholtz-Institut für Strahlen- und Kernphysik der Universität Bonn unter der Aufsicht von Prof. Dr. Sebastian Neubert und Unterstützung von LHCb Bonn.
 
 Weiteres
 	Wir haften nicht für Schaden, die durch den Druck oder das Produkt entstehen und kommen nicht für entstandene Kosten des Materials auf.
