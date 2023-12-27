@@ -8,7 +8,7 @@ The Quark-Puzzle is a visualisation and a teaching ais from the field particle p
 
 Only colour-neutral hadrons can be built. Furthermore, it is not possible to build hadrons that have a top flavour. It is intended that pupils develop their own questions and cognitive conflicts regarding the role of the top quark in the Standard Model, colour-neutrality of hadrons, the electrical charge of the built systems, the difference between two-quark and three-quark systems and quark generations.
 
-Content and description
+\bfseries Content and description
 
 The Quark-Puzzle consists of 36 different pieces (quarks), which can be 3d-printed in the six quark-flavours up, down, strange, charm, top, bottom and in their antiparticles. The flavour is symbolised on an outer side (see pictures).
 Due to the charge of the strong interaction - colour charges - all quarks are present in the three versions, which should be printed in the respective colours/anticolours (red, blue, green for matter; anti-red (cyan), anti-green (pink) and anti-blue (yellow) for antimatter) if possible. Additionally, the colour charge is engraved on the inside of the quark shape. 
