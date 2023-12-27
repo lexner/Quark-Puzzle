@@ -10,7 +10,7 @@ Only colour-neutral hadrons can be built. Furthermore, it is not possible to bui
 
 Content and description
 
-  The Quark-Puzzle consists of 36 different pieces (quarks), which can be 3d-printed in the six quark-flavours up, down, strange, charm, top, bottom and in their antiparticles. The flavour is symbolised on an outer side (see pictures).
+The Quark-Puzzle consists of 36 different pieces (quarks), which can be 3d-printed in the six quark-flavours up, down, strange, charm, top, bottom and in their antiparticles. The flavour is symbolised on an outer side (see pictures).
 Due to the charge of the strong interaction - colour charges - all quarks are present in the three versions, which should be printed in the respective colours/anticolours (red, blue, green for matter; anti-red (cyan), anti-green (pink) and anti-blue (yellow) for antimatter) if possible. Additionally, the colour charge is engraved on the inside of the quark shape. 
 
 The plug-in mechanism is selected so that only colour-neutral hadrons can be built, which means that the following combinations are possible:
