@@ -14,11 +14,17 @@ The Quark-Puzzle consists of 36 different pieces (quarks), which can be 3d-print
 Due to the charge of the strong interaction - colour charges - all quarks are present in the three versions, which should be printed in the respective colours/anticolours (red, blue, green for matter; anti-red (cyan), anti-green (pink) and anti-blue (yellow) for antimatter) if possible. Additionally, the colour charge is engraved on the inside of the quark shape. 
 
 The plug-in mechanism is selected so that only colour-neutral hadrons can be built, which means that the following combinations are possible:
-		- Red--Blue--Green 			(Baryon)
-		- Anti-red--anti-blue--anti-green 	(Anti-Baryon)
-		- Anti-red--red 			(Meson)
-		- Anti-blue--blue 			(Meson)
-		- Anti-green--green 			(Meson)
+
+		
+  - Red--Blue--Green 			(Baryon)
+		
+  - Anti-red--anti-blue--anti-green 	(Anti-Baryon)
+	
+  - Anti-red--red 			(Meson)
+	
+  - Anti-blue--blue 			(Meson)
+	
+  - Anti-green--green 			(Meson)
 
 The binding mechanism only dependent on the colour. Since the formation time of hadrons with top flavour is longer than its lifetime, they have not yet been observed. This is considered in the puzzle, since top quarks do not have contacts and thus cannot be built up into hadrons. On the upper side of a quark there is information about the quark generation (circle: first generation; tetrahedron: second generation; square: third generation). The electric charge of a quark is imprinted in another side of the shape.
 
