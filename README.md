@@ -1,6 +1,12 @@
 READ ME | Quark-Puzzle | By Lukas Julian Exner and Sebastian Neubert, LHCb Bonn, quarks@magenta.de | CC BY-ND | 1st August 2023
 
-Files available at https://www.thingiverse.com/thing:6150640
+|-----------------------------------------------------------------------------------------------------------|
+|							   New spherical version availabile at											|
+|						https://github.com/lexner/Spherical-Quark-Puzzle 									|
+|-----------------------------------------------------------------------------------------------------------|
+
+Files available at:	 		 https://www.thingiverse.com/thing:6150640 
+New spherical version:		 https://www.thingiverse.com/thing:6786046
 
 What is it about?
 	
@@ -73,4 +79,4 @@ References:
 
 
 
-LE (27.12.23)
+LE (18.09.25)
