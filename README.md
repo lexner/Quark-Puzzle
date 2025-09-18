@@ -1,9 +1,9 @@
 READ ME | Quark-Puzzle | By Lukas Julian Exner and Sebastian Neubert, LHCb Bonn, quarks@magenta.de | CC BY-ND | 1st August 2023
 
 New spherical version availabile at: 
-
-|https://github.com/lexner/Spherical-Quark-Puzzle 	 |
-
+|-------------------------------------------------------|
+|	https://github.com/lexner/Spherical-Quark-Puzzle 	|
+|-------------------------------------------------------|
 
 Files available at:	 		 https://www.thingiverse.com/thing:6150640 
 New spherical version:		 https://www.thingiverse.com/thing:6786046
