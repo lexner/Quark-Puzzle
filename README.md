@@ -2,7 +2,7 @@ READ ME | Quark-Puzzle | By Lukas Julian Exner and Sebastian Neubert, LHCb Bonn,
 
 New spherical version availabile at: 
 
-https://github.com/lexner/Spherical-Quark-Puzzle 	
+|https://github.com/lexner/Spherical-Quark-Puzzle 	 |
 
 
 Files available at:	 		 https://www.thingiverse.com/thing:6150640 
